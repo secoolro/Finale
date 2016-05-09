@@ -1,19 +1,23 @@
 fileFormatVersion: 2
-guid: b739cf2b2a4505545b825e17b0f289e0
-timeCreated: 1462548886
+guid: 5a3cf8ef0373d0c4a9479306f013ba35
+timeCreated: 1462807322
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: New Piskel_0
-    21300002: New Piskel_1
-    21300004: New Piskel_2
-    21300006: New Piskel_3
-    21300008: New Piskel_4
-    21300010: New Piskel_5
-    21300012: New Piskel_6
-    21300014: New Piskel_7
-    21300016: New Piskel_8
-    21300018: New Piskel_9
+    21300000: New Piskel (3)_0
+    21300002: New Piskel (3)_1
+    21300004: New Piskel (3)_2
+    21300006: New Piskel (3)_3
+    21300008: New Piskel (3)_4
+    21300010: New Piskel (3)_5
+    21300012: New Piskel (3)_6
+    21300014: New Piskel (3)_7
+    21300016: New Piskel (3)_8
+    21300018: New Piskel (3)_9
+    21300020: New Piskel (3)_10
+    21300022: New Piskel (3)_11
+    21300024: New Piskel (3)_12
+    21300026: New Piskel (3)_13
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -59,103 +63,143 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: New Piskel_0
+    - name: New Piskel (3)_0
       rect:
         serializedVersion: 2
-        x: 64
+        x: 8
         y: 0
-        width: 136
-        height: 256
+        width: 17
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel_1
+    - name: New Piskel (3)_1
       rect:
         serializedVersion: 2
-        x: 320
+        x: 40
         y: 0
-        width: 136
-        height: 241
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel_2
+    - name: New Piskel (3)_2
       rect:
         serializedVersion: 2
-        x: 575
+        x: 72
         y: 0
-        width: 137
-        height: 256
+        width: 17
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel_3
+    - name: New Piskel (3)_3
       rect:
         serializedVersion: 2
-        x: 807
+        x: 104
         y: 0
-        width: 178
-        height: 256
+        width: 17
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel_4
+    - name: New Piskel (3)_4
       rect:
         serializedVersion: 2
-        x: 1087
+        x: 136
         y: 0
-        width: 138
-        height: 256
+        width: 17
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel_5
+    - name: New Piskel (3)_5
       rect:
         serializedVersion: 2
-        x: 1344
+        x: 168
         y: 0
-        width: 136
-        height: 256
+        width: 17
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel_6
+    - name: New Piskel (3)_6
       rect:
         serializedVersion: 2
-        x: 1600
+        x: 200
         y: 0
-        width: 136
-        height: 256
+        width: 17
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel_7
+    - name: New Piskel (3)_7
       rect:
         serializedVersion: 2
-        x: 1855
+        x: 232
         y: 0
-        width: 137
-        height: 256
+        width: 17
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel_8
+    - name: New Piskel (3)_8
       rect:
         serializedVersion: 2
-        x: 2111
+        x: 264
         y: 0
-        width: 138
-        height: 256
+        width: 17
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel_9
+    - name: New Piskel (3)_9
       rect:
         serializedVersion: 2
-        x: 2367
+        x: 296
         y: 0
-        width: 138
-        height: 256
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel (3)_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel (3)_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel (3)_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel (3)_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 17
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
