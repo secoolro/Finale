@@ -21,9 +21,5 @@ public class PlayerController : MonoBehaviour {
 		} else {
 			rb.velocity = new Vector2(0f, rb.velocity.y);
 		}
-
-		if (Input.GetKeyDown (KeyCode.UpArrow) && Mathf.Abs(rb.velocity.y) < 0.01f ) {
-			rb.velocity = new Vector2(rb.velocity.x, 100f);
-		}
 	}
 }
