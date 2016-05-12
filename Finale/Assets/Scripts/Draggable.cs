@@ -46,10 +46,11 @@ class Draggable : MonoBehaviour
 	{
 		dragging = false;
 		sr.color = unselected;
+		foreach (Collider2D c in colliders) {
+			c.isTrigger = false;
+		}
 		if (goodPlace) {
-			foreach (Collider2D c in colliders) {
-				c.isTrigger = false;
-			}
+			//this is okay
 		} else {
 			transform.position = initPos;
 			goodPlace = true;
