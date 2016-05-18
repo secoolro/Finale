@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 guid: 5a3cf8ef0373d0c4a9479306f013ba35
+<<<<<<< HEAD
 timeCreated: 1462807322
+=======
+timeCreated: 1462811369
+>>>>>>> refs/remotes/origin/Ruoya
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -70,8 +74,13 @@ TextureImporter:
         y: 0
         width: 17
         height: 32
+<<<<<<< HEAD
       alignment: 0
       pivot: {x: 0, y: 0}
+=======
+      alignment: 7
+      pivot: {x: .5, y: 0}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_1
       rect:
@@ -80,8 +89,13 @@ TextureImporter:
         y: 0
         width: 17
         height: 30
+<<<<<<< HEAD
       alignment: 0
       pivot: {x: 0, y: 0}
+=======
+      alignment: 7
+      pivot: {x: .5, y: 0}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_2
       rect:
@@ -91,7 +105,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_3
       rect:
@@ -101,7 +119,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_4
       rect:
@@ -111,7 +133,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_5
       rect:
@@ -121,7 +147,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_6
       rect:
@@ -131,7 +161,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_7
       rect:
@@ -141,7 +175,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_8
       rect:
@@ -151,7 +189,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_9
       rect:
@@ -161,7 +203,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_10
       rect:
@@ -171,7 +217,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_11
       rect:
@@ -181,7 +231,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_12
       rect:
@@ -191,7 +245,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: New Piskel (3)_13
       rect:
@@ -201,7 +259,11 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0, y: 0}
+=======
+      pivot: {x: .5, y: .5}
+>>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
