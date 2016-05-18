@@ -12,10 +12,10 @@ public class Dangerous : MonoBehaviour {
 	void OnTriggerStay2D (Collider2D c) {
 		if (active) {
 			if (c.gameObject.tag == "Enemy") {
-				Destroy (c.gameObject);
+				c.gameObject.GetComponent<EnemyAI>().die();
 			}
 			if (c.gameObject.tag == "Player") {
-				c.gameObject.GetComponent <PlayerController> ().die ();
+				c.gameObject.GetComponent<PlayerController>().die();
 			}
 		}
 	}
