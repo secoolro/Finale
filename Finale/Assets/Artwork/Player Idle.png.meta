@@ -1,27 +1,23 @@
 fileFormatVersion: 2
 guid: 5a3cf8ef0373d0c4a9479306f013ba35
-<<<<<<< HEAD
-timeCreated: 1462807322
-=======
-timeCreated: 1462811369
->>>>>>> refs/remotes/origin/Ruoya
+timeCreated: 1463584707
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: New Piskel (3)_0
-    21300002: New Piskel (3)_1
-    21300004: New Piskel (3)_2
-    21300006: New Piskel (3)_3
-    21300008: New Piskel (3)_4
-    21300010: New Piskel (3)_5
-    21300012: New Piskel (3)_6
-    21300014: New Piskel (3)_7
-    21300016: New Piskel (3)_8
-    21300018: New Piskel (3)_9
-    21300020: New Piskel (3)_10
-    21300022: New Piskel (3)_11
-    21300024: New Piskel (3)_12
-    21300026: New Piskel (3)_13
+    21300000: Player Idle_0
+    21300002: Player Idle_1
+    21300004: Player Idle_2
+    21300006: Player Idle_3
+    21300008: Player Idle_4
+    21300010: Player Idle_5
+    21300012: Player Idle_6
+    21300014: Player Idle_7
+    21300016: Player Idle_8
+    21300018: Player Idle_9
+    21300020: Player Idle_10
+    21300022: Player Idle_11
+    21300024: Player Idle_12
+    21300026: Player Idle_13
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -58,7 +54,7 @@ TextureImporter:
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
+  alignment: 7
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 1
@@ -67,203 +63,145 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: New Piskel (3)_0
+    - name: Player Idle_0
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 0
-        width: 17
-        height: 32
-<<<<<<< HEAD
-      alignment: 0
-      pivot: {x: 0, y: 0}
-=======
-      alignment: 7
-      pivot: {x: .5, y: 0}
->>>>>>> refs/remotes/origin/Ruoya
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_1
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 0
-        width: 17
-        height: 30
-<<<<<<< HEAD
-      alignment: 0
-      pivot: {x: 0, y: 0}
-=======
-      alignment: 7
-      pivot: {x: .5, y: 0}
->>>>>>> refs/remotes/origin/Ruoya
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_2
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_3
+    - name: Player Idle_1
       rect:
         serializedVersion: 2
-        x: 104
+        x: 32
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_4
+    - name: Player Idle_2
       rect:
         serializedVersion: 2
-        x: 136
+        x: 64
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_5
+    - name: Player Idle_3
       rect:
         serializedVersion: 2
-        x: 168
+        x: 96
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_6
+    - name: Player Idle_4
       rect:
         serializedVersion: 2
-        x: 200
+        x: 128
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_7
+    - name: Player Idle_5
       rect:
         serializedVersion: 2
-        x: 232
+        x: 160
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_8
+    - name: Player Idle_6
       rect:
         serializedVersion: 2
-        x: 264
+        x: 192
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_9
+    - name: Player Idle_7
       rect:
         serializedVersion: 2
-        x: 296
+        x: 224
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_10
+    - name: Player Idle_8
       rect:
         serializedVersion: 2
-        x: 328
+        x: 256
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_11
+    - name: Player Idle_9
       rect:
         serializedVersion: 2
-        x: 360
+        x: 288
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_12
+    - name: Player Idle_10
       rect:
         serializedVersion: 2
-        x: 392
+        x: 320
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: New Piskel (3)_13
+    - name: Player Idle_11
       rect:
         serializedVersion: 2
-        x: 424
+        x: 352
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
-<<<<<<< HEAD
       pivot: {x: 0, y: 0}
-=======
-      pivot: {x: .5, y: .5}
->>>>>>> refs/remotes/origin/Ruoya
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Idle_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player Idle_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

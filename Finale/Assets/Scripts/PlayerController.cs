@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (!dead) {
+		if (!dead && !GlobalVars.ended) {
 			if (Input.GetKey (KeyCode.D)) {
 				rb.velocity = new Vector2 (spd, rb.velocity.y);
 				anim.SetBool ("Moving", true);
@@ -47,11 +47,14 @@ public class PlayerController : MonoBehaviour {
 			if (transform.position.y < deathY) {
 				die ();
 			}
-		} else {
+		} else if (dead) {
 			if (transform.position.y < deathY - 10f) {
 				Application.LoadLevel ("Finale");
 			}
+		} else if (GlobalVars.ended) {
+			rb.velocity = Vector2.zero;
 		}
+
 	}
 	
 	void OnTriggerStay2D(Collider2D c) {
@@ -69,9 +72,10 @@ public class PlayerController : MonoBehaviour {
 			}
 			rb.fixedAngle = false;
 			rb.velocity = new Vector2(0f, 0f);
-			rb.AddForce (new Vector2 (0f, 200f), ForceMode2D.Impulse);
+			rb.AddForce (new Vector2 (0f, 180f), ForceMode2D.Impulse);
 			rb.AddTorque (90f);
 			dead = true;
+			GlobalVars.deathCount++;
 		}
 	}
 }
